@@ -23,3 +23,6 @@ cdk.out/
 
 # VSCode
 .vscode/
+
+# ignore pre-commit hooks
+.pre-commit-config.yaml
